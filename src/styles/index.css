@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Importa as fontes do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@500;600;700&display=swap');
+
+/* Importa a base do Tailwind CSS v4 */
+@import "tailwindcss";
+
+/* Aqui definimos nossas customizações como variáveis CSS padrão.
+  Isso é feito dentro de uma camada (@layer) para garantir a ordem correta.
+*/
+
+
+@layer base {
+    :root {
+        /* Cores */
+        --color-cta: #005A9C;
+        --color-text-grey: #4a4a4a;
+        --color-white: #FFFFFF;
+        --color-black: #000000;
+        --color-bg: #F0F8FF;
+
+        /* Fontes */
+        --font-family-sans: 'Lato', sans-serif;
+        --font-family-heading: 'Poppins', sans-serif;
+    }
+}
+

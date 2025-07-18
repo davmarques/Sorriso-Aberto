@@ -22,8 +22,8 @@ function Footer() {
 
   const contactInfo = {
     phone: "(61) 98216-2099",
-    phoneLink: "tel:+5561982162099",
-    whatsappLink: "https://wa.me/5561982162099",
+    phoneLink: "tel:+5561982102099",
+    whatsappLink: "https://wa.me/5561982102099",
     instagramLink: "https://instagram.com/sorrisoaberto.apb",
     mapEmbedLink: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3840.2520586635746!2d-47.7712440248711!3d-15.737799584894661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDQ0JzE2LjEiUyA0N8KwNDYnMDcuMiJX!5e0!3m2!1spt-BR!2sbr!4v1752706277793!5m2!1spt-BR!2sbr",
   };

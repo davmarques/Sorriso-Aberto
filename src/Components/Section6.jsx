@@ -10,9 +10,9 @@ import {
 
 function Section6() {
   const contactInfo = {
-    phone: "(61) 98216-2099",
-    phoneLink: "tel:+5561982162099",
-    whatsappLink: "https://wa.me/5561982162099",
+    phone: "(61) 98210-2099",
+    phoneLink: "tel:+5561982102099",
+    whatsappLink: "https://wa.me/5561982102099",
     instagramLink: "https://instagram.com/sorrisoaberto.apb",
   };
   const treatments = [

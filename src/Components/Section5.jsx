@@ -10,9 +10,9 @@ import {
 function Section5() {
   // Dados de contato para facilitar a edição
   const contactInfo = {
-    phone: "(61) 98216-2099",
-    phoneLink: "tel:+5561982162099",
-    whatsappLink: "https://wa.me/5561982162099",
+    phone: "(61) 98210-2099",
+    phoneLink: "tel:+5561982102099",
+    whatsappLink: "https://wa.me/5561982102099",
     address: "QR 376 Casa 17, Condomínio Del Lago - DF",
     instagram: "@sorrisoaberto.apb",
     instagramLink: "https://instagram.com/sorrisoaberto.apb",

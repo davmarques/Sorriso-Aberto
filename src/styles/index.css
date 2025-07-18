@@ -12,17 +12,20 @@
 
 
 @layer base {
-    :root {
-        /* Cores */
-        --color-cta: #005A9C;
-        --color-text-grey: #4a4a4a;
-        --color-white: #FFFFFF;
-        --color-black: #000000;
-        --color-bg: #F0F8FF;
+  :root {
+    /* Cores */
+    --color-cta: #005A9C;
+    --color-text-grey: #4a4a4a;
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+    --color-bg: #F0F8FF;
 
-        /* Fontes */
-        --font-family-sans: 'Lato', sans-serif;
-        --font-family-heading: 'Poppins', sans-serif;
-    }
+    /* Fontes */
+    --font-family-sans: 'Lato', sans-serif;
+    --font-family-heading: 'Poppins', sans-serif;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
 }
-

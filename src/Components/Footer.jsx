@@ -34,9 +34,9 @@ function Footer() {
         <div className="max-w-7xl mx-auto py-12 px-6 md:py-16 grid md:grid-cols-4 gap-8">
           {/* Coluna 1: Logo e Copyright */}
           <div className="space-y-4 mx-auto text-center md:text-left">
-            <img src={logo} alt="Logo Sorriso Aberto" className="h-24 mx-auto md:mx-0 bg-white rounded-full" />
-            <p className="text-sm text-gray-400">Transformando sorrisos com tecnologia e cuidado.</p>
-            <p className="text-xs text-gray-500 pt-4">© {new Date().getFullYear()} Sorriso Aberto. Todos os direitos reservados.</p>
+            <img src={logo} alt="Logo Sorriso Aberto" className="h-24  mx-auto  bg-white rounded-full" />
+            <p className="text-sm text-gray-400 text-start md:text-center">Transformando sorrisos com tecnologia e cuidado.</p>
+            <p className="text-xs text-gray-500 pt-4 text-start md:text-center">© {new Date().getFullYear()} Sorriso Aberto. Todos os direitos reservados.</p>
           </div>
 
           {/* Coluna 2: Navegação Rápida */}

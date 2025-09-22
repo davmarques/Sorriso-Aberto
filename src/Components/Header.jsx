@@ -15,7 +15,7 @@ function Header() {
 
   return (
     // A sombra agora usa a sintaxe var() explícita.
-    <header className="relative flex justify-between items-center p-6 h-40 rounded-b-3xl shadow-[10px_10px_5px_var(--color-bg)]">
+    <header className="relative flex justify-between md:justify-around items-center p-6 h-32 rounded-b-3xl shadow-[10px_10px_5px_var(--color-bg)]">
       <img src={logo} alt="Logo" className="h-30" />
 
       {/* --- BOTÃO DO MENU (Mobile) --- */}

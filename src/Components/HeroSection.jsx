@@ -10,9 +10,9 @@ function HeroSection() {
 
   // Imagens do carrossel
   const images = [
-    "/src/assets/recepcao.jpg",
-    "/src/assets/consultorio1.jpg",
-    "/src/assets/consultorio2.jpg",
+    "/recepcao.jpg",
+    "/consultorio1.jpg",
+    "/consultorio2.jpg",
   ];
   const [current, setCurrent] = useState(0);
 

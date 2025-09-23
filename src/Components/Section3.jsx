@@ -22,7 +22,7 @@ function Section3() {
     {
       title: "Resultados que Falam por Si",
       description:
-        "Milhares de sorrisos já foram transformados. Acompanhe nossos casos de antes e depois através de nossas redes sociais.",
+        "Muitos sorrisos já foram transformados. Acompanhe nossos casos de antes e depois através de nossas redes sociais.",
     },
     {
       title: "Tratamentos Personalizados",

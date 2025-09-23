@@ -49,7 +49,7 @@ function HeroSection() {
         <h2 className="font-[var(--font-family-sans)] text-xl md:text-4xl opacity-90 max-w-2xl">
           Transforme seu sorriso com quem entende de cuidado e bem-estar. Somos
           um projeto odontológico com preços sociais e referência em
-          Brasília-DF.
+          Itapoã-DF.
         </h2>
 
         <h3 className="font-[var(--font-family-sans)] text-lg md:text-xl opacity-80 mt-2 max-w-2xl">

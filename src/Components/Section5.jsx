@@ -18,7 +18,7 @@ function Section5() {
     instagramLink: "https://instagram.com/sorrisoaberto.apb",
     mapsLink:
       "https://www.google.com/maps/search/?api=1&query=QR+376+Casa+17,+Condomínio+Del+Lago+-+DF",
-    hours: "Seg à Sab de 08:00 às 18:00",
+    hours: "Seg à Sex de 08:00 às 18:00",
   };
 
   return (

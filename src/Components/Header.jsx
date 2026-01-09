@@ -104,7 +104,7 @@ function Header() {
           Sobre Nós
         </a>
         <a
-          href="#sobrenos"
+          href="#contato"
           className="font-[--font-family-heading)] text-lg text-[var(--color-text-grey)] hover:text-[var(--color-cta)] hover:scale-110"
         >
           Contato
